@@ -1,5 +1,5 @@
 {
-  "name": "destack-starter",
+  "name": "designer2-starter",
   "version": "0.7.0",
   "scripts": {
     "dev": "next",
